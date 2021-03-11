@@ -8,6 +8,13 @@ TO DO:
   - incidencias seguir el link : http://vocab.ciudadesabiertas.es/def/transporte/trafico#tipoIncidencia
   
 
+Web Bicilcletas:
+-Decripción estado_estación tiene dos tener.
+-tieneAnclajeOrigen falta:
+Enlace entre el trayecto y el anclaje. Determina cual es el anclaje de origen de un trayecto.
+-tiene estación de origen pone destino en lugar de origen
+-orden tiene dos un
+-estado_bicicleta tiene dos tener
 
 
 
