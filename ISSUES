@@ -1,2 +1,13 @@
 Documento modelado de tablas de autobús:
-Descripción en el HTML y_/o en el OWL para algún atributo
+TO DO:
+  -postal_code NO es Direccion -> CAMBIAR ontología también
+  - crear propiedad inversa de madeUpOf -> in
+  - pregutar a Localidata si tienen Diagrama Entidad Relación 
+ DONE:
+  -http://w3id.org/transmodel no redirigen correctamente los links 
+  - incidencias seguir el link : http://vocab.ciudadesabiertas.es/def/transporte/trafico#tipoIncidencia
+  
+
+
+
+
