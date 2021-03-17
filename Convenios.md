@@ -21,7 +21,7 @@ Este documento contiene la información detallada del modelo de datos asociado a
 ## DIAGRAMA CONCEPTUAL
 
 El diagrama muestra las clases y propiedades del vocabulario que representa los convenios adoptados por los ayuntamientos con otras entidades:  
-![Diagrama conceptual](Convenios.png)
+![Diagrama conceptual](http://vocab.ciudadesabiertas.es/def/sector-publico/convenios/resources/images/modeloConceptual.png)
 
 
 
