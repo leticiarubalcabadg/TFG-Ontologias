@@ -2,7 +2,7 @@
 
 &nbsp;
 
-**ÍNDICE**   
+## **ÍNDICE**   
 1. [AUTORES](#id1)
 2. [LINKS](#id2)
 3. [DIAGRAMA CONCEPTUAl](#id3)
