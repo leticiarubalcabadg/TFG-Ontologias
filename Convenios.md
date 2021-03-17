@@ -37,7 +37,7 @@ En principio se considera esta estructura de datos bastante estable y no se esti
 
 [comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
 &nbsp;
-#### CONVENIO
+### CONVENIO
 &nbsp;
 
 |     Campo                          |     Tipo                |     Ejemplo                                                                                                                                                                                                                           |     Descripción                                                                                                                                                                                                                                                                                                                                      |     URL                                                                                                            |
@@ -74,7 +74,7 @@ En principio se considera esta estructura de datos bastante estable y no se esti
 
 [comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
 &nbsp;
-#### CONV_REL_FIRMANTE_AYTO
+### CONV_REL_FIRMANTE_AYTO
 &nbsp;
 |     Campo                          |     Tipo                |     Ejemplo                                                                                                                                                                                                                           |     Descripción                                                                                                                                                                                                                                                                                                                                      |     URL                                                                                                            |
 |------------------------------------|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
@@ -108,10 +108,11 @@ En principio se considera esta estructura de datos bastante estable y no se esti
 |     distrito_title                 |     VARCHAR(400)        |     Centro                                                                                                                                                                                                                            |     Nombre o   título de un distrito, se especifica con la propiedad dct:title,   geonames:name, y rdf:label es el proporcionado por el Registro de Entidades   Locales del Ministerio de Política Territorial, en http://www.ine.es/nomen2/index.do                                                                                                 |     https://www.dublincore.org/specifications/dublin-core/dcmi-terms#http://purl.org/dc/terms/title                |
 |     es_variacion                   |     VARCHAR(50)         |     CONV00022. Id del Convenio (Prorroga, Adenda o   Modificación). Relación esVariacionDe hace   referencia al tipo-variacion asociado                                                                                               |     Convenio   del cual es prórroga, adenda o modificación.                                                                                                                                                                                                                                                                                          |     http://vocab.ciudadesabiertas.es/def/sector-publico/convenios/index-es.html#esVariacionDe                      |                                                                                                      |
 
-&nbsp;
+
 
 [comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
-#### CONVENIO_DOCUMENTACION
+&nbsp;
+### CONVENIO_DOCUMENTACION
 &nbsp;
 
 |     Campo                          |     Tipo                |     Ejemplo                                                                                                                                                                                                                           |     Descripción                                                                                                                                                                                                                                                                                                                                      |     URL                                                                                                            |
@@ -126,7 +127,7 @@ En principio se considera esta estructura de datos bastante estable y no se esti
 
 [comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
 &nbsp;
-#### CONVENIO_SUSC_ENTIDAD
+### CONVENIO_SUSC_ENTIDAD
 &nbsp;
 |     Campo                          |     Tipo                |     Ejemplo                                                                                                                                                                                                                           |     Descripción                                                                                                                                                                                                                                                                                                                                      |     URL                                                                                                            |
 |------------------------------------|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
@@ -139,8 +140,8 @@ En principio se considera esta estructura de datos bastante estable y no se esti
 
 
 [comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
-
-#### CONV_REL_FIRMANTE_ENTIDAD
+&nbsp;
+### CONV_REL_FIRMANTE_ENTIDAD
 &nbsp;
 |     Campo              |     Tipo            |     Ejemplo                    |     Descripción                                                                                                              |     URL                                                                                                      |
 |------------------------|---------------------|--------------------------------|------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
@@ -154,7 +155,7 @@ En principio se considera esta estructura de datos bastante estable y no se esti
 [comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
 
 &nbsp;
-#### CONVENIO_ORGANIZATION
+### CONVENIO_ORGANIZATION
 &nbsp;
 |     Campo                     |     Tipo            |     Ejemplo                                          |     Descripción                                                                                                           |     URL                                                                                                      |
 |-------------------------------|---------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
