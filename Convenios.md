@@ -34,8 +34,9 @@ El diagrama muestra las clases y propiedades del vocabulario que representa los 
 
 ## TABLAS
 En principio se considera esta estructura de datos bastante estable y no se estima que sufrirá cambios. Pero puesto que la actuación D2, que es donde se enmarca la definición de estas tablas, aún está en desarrollo, no se puede asegurar al 100% que será la definitiva.     
-&nbsp;
+
 [comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
+&nbsp;
 #### CONVENIO
 &nbsp;
 
