@@ -5,7 +5,7 @@
 ## **ÍNDICE**   
 1. [AUTORES](#id1)
 2. [LINKS](#id2)
-3. [DIAGRAMA CONCEPTUAl](#id3)
+3. [DIAGRAMA CONCEPTUAL](#id3)
 4. [TABLAS](#id4)  
     - [CONVENIO](#id5)  
     - [CONV_REL_FIRMANTE_AYTO](#id6)  
