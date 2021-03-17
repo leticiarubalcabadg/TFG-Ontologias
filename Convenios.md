@@ -34,7 +34,7 @@ El diagrama muestra las clases y propiedades del vocabulario que representa los 
 
 ## TABLAS
 En principio se considera esta estructura de datos bastante estable y no se estima que sufrirá cambios. Pero puesto que la actuación D2, que es donde se enmarca la definición de estas tablas, aún está en desarrollo, no se puede asegurar al 100% que será la definitiva.     
-
+&nbsp;
 [comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
 #### CONVENIO
 &nbsp;
@@ -72,7 +72,7 @@ En principio se considera esta estructura de datos bastante estable y no se esti
 |     es_variacion                   |     VARCHAR(50)         |     CONV00022. Id del Convenio (Prorroga, Adenda o   Modificación). Relación esVariacionDe hace   referencia al tipo-variacion asociado                                                                                               |     Convenio   del cual es prórroga, adenda o modificación.                                                                                                                                                                                                                                                                                          |     http://vocab.ciudadesabiertas.es/def/sector-publico/convenios/index-es.html#esVariacionDe                      |
 
 [comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
-
+&nbsp;
 #### CONV_REL_FIRMANTE_AYTO
 &nbsp;
 |     Campo                          |     Tipo                |     Ejemplo                                                                                                                                                                                                                           |     Descripción                                                                                                                                                                                                                                                                                                                                      |     URL                                                                                                            |
@@ -107,7 +107,7 @@ En principio se considera esta estructura de datos bastante estable y no se esti
 |     distrito_title                 |     VARCHAR(400)        |     Centro                                                                                                                                                                                                                            |     Nombre o   título de un distrito, se especifica con la propiedad dct:title,   geonames:name, y rdf:label es el proporcionado por el Registro de Entidades   Locales del Ministerio de Política Territorial, en http://www.ine.es/nomen2/index.do                                                                                                 |     https://www.dublincore.org/specifications/dublin-core/dcmi-terms#http://purl.org/dc/terms/title                |
 |     es_variacion                   |     VARCHAR(50)         |     CONV00022. Id del Convenio (Prorroga, Adenda o   Modificación). Relación esVariacionDe hace   referencia al tipo-variacion asociado                                                                                               |     Convenio   del cual es prórroga, adenda o modificación.                                                                                                                                                                                                                                                                                          |     http://vocab.ciudadesabiertas.es/def/sector-publico/convenios/index-es.html#esVariacionDe                      |                                                                                                      |
 
-
+&nbsp;
 
 [comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
 #### CONVENIO_DOCUMENTACION
@@ -124,7 +124,7 @@ En principio se considera esta estructura de datos bastante estable y no se esti
 
 
 [comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
-
+&nbsp;
 #### CONVENIO_SUSC_ENTIDAD
 &nbsp;
 |     Campo                          |     Tipo                |     Ejemplo                                                                                                                                                                                                                           |     Descripción                                                                                                                                                                                                                                                                                                                                      |     URL                                                                                                            |
@@ -152,7 +152,7 @@ En principio se considera esta estructura de datos bastante estable y no se esti
 
 [comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
 
-
+&nbsp;
 #### CONVENIO_ORGANIZATION
 &nbsp;
 |     Campo                     |     Tipo            |     Ejemplo                                          |     Descripción                                                                                                           |     URL                                                                                                      |
