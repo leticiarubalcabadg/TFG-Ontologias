@@ -7,7 +7,6 @@
 - Paola Espinoza Arias
 
 
-***
 ## LINKS
 
 
@@ -19,13 +18,12 @@ Este documento contiene la información detallada del modelo de datos asociado a
 - *[Requisitos](https://github.com/CiudadesAbiertas/vocab-sector-publico-convenios/blob/master/requirements/Requisitos-Convenios.xlsx)*
 - *[Issues](https://github.com/CiudadesAbiertas/vocab-sector-publico-convenios/issues)*
 
-***
 ## DIAGRAMA CONCEPTUAL
 
 El diagrama muestra las clases y propiedades del vocabulario que representa los convenios adoptados por los ayuntamientos con otras entidades:  
 ![Diagrama conceptual](Convenios.png)
- 
- *** 
+
+
 
 ## TABLAS
 En principio se considera esta estructura de datos bastante estable y no se estima que sufrirá cambios. Pero puesto que la actuación D2, que es donde se enmarca la definición de estas tablas, aún está en desarrollo, no se puede asegurar al 100% que será la definitiva.     
