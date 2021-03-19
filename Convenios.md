@@ -1,3 +1,7 @@
+
+
+<img src="https://ciudadesabiertas.es/assets/img/cabiertas/logo.svg" alt="LogoCiudadesAbiertas" width="200"/> 
+
 # DESARROLLO API REST DE DATOS REUTILIZABLE. MODELO DE TABLAS: CONVENIOS
 
 &nbsp;
@@ -22,6 +26,7 @@
 ## AUTORES <a name="id1"></a>
 - Carlos Martínez de la Casa García
 - Edna Ruckhaus
+- Leticia Rubalcaba
 - Oscar Corcho
 - Paola Espinoza Arias
 
@@ -192,5 +197,24 @@ En principio se considera esta estructura de datos bastante estable y no se esti
 |     postal_code               |     VARCHAR(200)    |     28076                                            |     Código postal.                                                                                                        |                                                                                                              |
 |     classification            |     VARCHAR(10)     |     asociacion-privada-sin-animo-de-lucro  (SKOS)    |     SKOS: http://vocab.linkeddata.es/page/datosabiertos/kos/economia/deuda-publica-financiera/tipo-entidad-prestamista    |                                                                                                              |
 |     portal_id                 |     VARCHAR(200)    |     Integración   con callejero. PORTAL0001          |     Id del portal.                                                                                                        |                                                                                                              |
+
+
+
+
+<p float="right">
+<img src="https://ciudadesabiertas.es/assets/img/cabiertas/gobEspana-logo.svg" alt="Logo Gobierno España" width="200"/>
+<img src="https://ciudadesabiertas.es/assets/img/cabiertas/red-logo.svg" alt="Logo red.es" width="150"/>
+<img src="https://ciudadesabiertas.es/assets/img/cabiertas/ciudadesInteligentes-logo.svg" alt="Logo CiudadesInteligentes" width="150"/>
+<img src="https://ciudadesabiertas.es/assets/img/cabiertas/unionEuropea-logo.svg" alt="Logo UnionEuropea" width="200"/>
+</p>
+
+
+<p float="right">
+<img src="https://ciudadesabiertas.es/assets/img/cabiertas/ayuntAcoruna-logo.svg" alt="Logo AyuntACoruña" width="200"/>
+<img src="https://ciudadesabiertas.es/assets/img/cabiertas/ayuntMadrid-logo.svg" alt="Logo Madrid" width="100"/>
+<img src="https://ciudadesabiertas.es/assets/img/cabiertas/ayuntSantiagoCompostela-logo.svg" alt="Logo Concello Santiago" width="200"/>
+<img src="https://ciudadesabiertas.es/assets/img/cabiertas/ayuntZaragoza-logo.svg" alt="Logo Ayun.Zaragoza" width="200"/>
+</p>
+
 
 
