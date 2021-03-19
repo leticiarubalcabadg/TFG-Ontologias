@@ -199,9 +199,9 @@ En principio se considera esta estructura de datos bastante estable y no se esti
 |     portal_id                 |     VARCHAR(200)    |     Integración   con callejero. PORTAL0001          |     Id del portal.                                                                                                        |                                                                                                              |
 
 
+&nbsp;
 
-
-<p float="right">
+<p float="right" align="center">
 <img src="https://ciudadesabiertas.es/assets/img/cabiertas/gobEspana-logo.svg" alt="Logo Gobierno España" width="200"/>
 <img src="https://ciudadesabiertas.es/assets/img/cabiertas/red-logo.svg" alt="Logo red.es" width="150"/>
 <img src="https://ciudadesabiertas.es/assets/img/cabiertas/ciudadesInteligentes-logo.svg" alt="Logo CiudadesInteligentes" width="150"/>
@@ -209,7 +209,7 @@ En principio se considera esta estructura de datos bastante estable y no se esti
 </p>
 
 
-<p float="right">
+<p float="right" align="center">
 <img src="https://ciudadesabiertas.es/assets/img/cabiertas/ayuntAcoruna-logo.svg" alt="Logo AyuntACoruña" width="200"/>
 <img src="https://ciudadesabiertas.es/assets/img/cabiertas/ayuntMadrid-logo.svg" alt="Logo Madrid" width="100"/>
 <img src="https://ciudadesabiertas.es/assets/img/cabiertas/ayuntSantiagoCompostela-logo.svg" alt="Logo Concello Santiago" width="200"/>
