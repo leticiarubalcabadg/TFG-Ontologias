@@ -4,14 +4,25 @@
 ### AUTOBUS_ROUTE <a name="id9"></a>
 &nbsp;
 
-|     Campo             |     Tipo             |     Ejemplo                                                                 |     Descripción                                                                   |     URL                                                  |
-|-----------------------|----------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------|
-|     ikey              |     VARCHAR(50)      |     BUSROU01                                                                |     Identificador de la Tabla (PK).                                               |                                                          |
-|     id                |     VARCHAR(50)      |     138a                                                                    |                                                                                   |     http://purl.org/dc/terms/identifier                  |
-|     description       |     VARCHAR(4000)    |     Línea 138, comienzo en Cristo Rey y final en San Ignacio de   Loyola    |     Una descripción del recurso dentro de un contexto dado.                       |     http://purl.org/dc/terms/description                 |
-|     direction_type    |     VARCHAR(200)     |     outbound                                                                |     Esta propiedad permite   describir el tipo de dirección para una Ruta.        |     http://w3id.org/transmodel/journeys#directionType    |
-|     on                |     VARCHAR(50)      |     138                                                                     |     Esta propiedad conecta el patrón de viaje con la ruta en la que   trabaja.    |     http://w3id.org/transmodel/journeys#on               |
 
+
+[comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
+&nbsp;
+### AUTOBUS_OPERATOR <a name="id6"></a>
+&nbsp;
+
+|     Campo             |     Tipo            |     Ejemplo                                                       |     Descripción                                                                         |     URL                                                                                                         |
+|-----------------------|---------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+|     ikey              |     VARCHAR(50)     |     BUSOPE01                                                      |     Identificador de la   Tabla (PK).                                                   |                                                                                                                 |
+|     id                |     VARCHAR(50)     |     EMT                                                           |                                                                                         |     http://purl.org/dc/terms/identifier                                                                         |
+|     serving_pt_for    |     VARCHAR(50)     |     CRTM                                                          |     Esta propiedad indica para qué   Autoridad está trabajando la entidad operadora.    |           http://w3id.org/transmodel/organisations#servingPTFor                                                 |
+|     telephone         |     VARCHAR(200)    |     +34 91 406 88   10                                            |     Teléfono de   información y contacto con la entidad.                                |     http://schema.org/telephone                                                                                 |
+|     email             |     VARCHAR(200)    |     https://www.emtmadrid.es/AtencionAlCliente/Agradecimientos    |     Correo   electrónico de información.                                                |     http://schema.org/email                                                                                     |
+|     url               |     VARCHAR(400)    |     https://www.emtmadrid.es/Servicios/Contactar                  |     Dirección   URL pública donde puedes obtener información de la entidad.             |     http://schema.org/url                                                                                       |
+|     street_address    |     VARCHAR(200)    |     Calle Cerro   de la Plata, 4                                  |     La dirección   de una parada.                                                       |     http://schema.org/address                                                                                   |
+|     postal_code       |     VARCHAR(10)     |     28007                                                         |     Una   dirección postal según el vocabulario esdir.                                  |     http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/direccion-postal#DireccionPostal    |
+|     legal_name        |     VARCHAR(200)    |     Empresa Municipal de   Transportes                            |     Nombre legal.                                                                       |     http://schema.org/legalName                                                                                 |
+|     alternate_name    |     VARCHAR(200)    |     EMT                                                           |     Nombre   alternativo, popular o por el que se conoce a algo.                        |     http://schema.org/alternateName                                                                             |
 
 
 [comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
