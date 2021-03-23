@@ -17,10 +17,6 @@
 |Campo|Tipo|Ejemplo|Descripción|URL|
 |--------|-------|------------|---------------------|---------------------|
 |ikey<img width=100/>|VARCHAR(50) <img width=100/>|BUSOPE01<img width=100/>|Identificador de la   Tabla (PK). <img width=800/>|<img width=500/>|
-
-
-
-
 |     id                |     VARCHAR(50)     |     EMT                                                           |                                                                                         |     http://purl.org/dc/terms/identifier                                                                         |
 |     serving_pt_for    |     VARCHAR(50)     |     CRTM                                                          |     Esta propiedad indica para qué   Autoridad está trabajando la entidad operadora.    |           http://w3id.org/transmodel/organisations#servingPTFor                                                 |
 |     telephone         |     VARCHAR(200)    |     +34 91 406 88   10                                            |     Teléfono de   información y contacto con la entidad.                                |     http://schema.org/telephone                                                                                 |
