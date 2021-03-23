@@ -17,14 +17,14 @@
 |Campo|Tipo|Ejemplo|Descripción|URL|
 |--------|-------|------------|---------------------|---------------------|
 |ikey<img width=100/>|VARCHAR(50) <img width=100/>|BUSOPE01<img width=100/>|Identificador de la   Tabla (PK). <img width=800/>|<img width=500/>|
-|serving_pt_for|VARCHAR(50)|CRTM|Esta propiedad indica para qué   Autoridad está trabajando la entidad operadora.|http://w3id.org/transmodel/organisations#servingPTFor|
-|telephone|VARCHAR(200)|+34 91 406 88   10|Teléfono de   información y contacto con la entidad.|http://schema.org/telephone|
-|email|VARCHAR(200)|https://www.emtmadrid.es/AtencionAlCliente/Agradecimientos    |Correo   electrónico de información.|http://schema.org/email|
-|url|VARCHAR(400)|https://www.emtmadrid.es/Servicios/Contactar|Dirección   URL pública donde puedes obtener información de la entidad.|http://schema.org/url|
-|street_address|VARCHAR(200)|Calle Cerro   de la Plata, 4|La dirección   de una parada.|http://schema.org/address|
-|postal_code|VARCHAR(10)|28007|Una   dirección postal según el vocabulario esdir.|http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/direccion-postal#DireccionPostal|
-|legal_name|VARCHAR(200)|Empresa Municipal de   Transportes|Nombre legal. |http://schema.org/legalName|
-|alternate_name|VARCHAR(200)|EMT|Nombre   alternativo, popular o por el que se conoce a algo.|http://schema.org/alternateName|
+|serving_pt_for|VARCHAR(50)|CRTM|Esta propiedad indica para qué   Autoridad está trabajando la entidad operadora.<img width=800/>|http://w3id.org/transmodel/organisations#servingPTFor|
+|telephone|VARCHAR(200)|+34 91 406 88   10|Teléfono de   información y contacto con la entidad.<img width=800/>|http://schema.org/telephone|
+|email|VARCHAR(200)|https://www.emtmadrid.es/AtencionAlCliente/Agradecimientos    |Correo   electrónico de información.<img width=800/>|http://schema.org/email|
+|url|VARCHAR(400)|https://www.emtmadrid.es/Servicios/Contactar|Dirección   URL pública donde puedes obtener información de la entidad.<img width=800/>|http://schema.org/url|
+|street_address|VARCHAR(200)|Calle Cerro   de la Plata, 4|La dirección   de una parada.<img width=800/>|http://schema.org/address|
+|postal_code|VARCHAR(10)|28007|Una   dirección postal según el vocabulario esdir.<img width=800/>|http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/direccion-postal#DireccionPostal|
+|legal_name|VARCHAR(200)|Empresa Municipal de   Transportes|Nombre legal.<img width=800/>|http://schema.org/legalName|
+|alternate_name|VARCHAR(200)|EMT|Nombre   alternativo, popular o por el que se conoce a algo.<img width=800/>|http://schema.org/alternateName|
 
 
 [comment]: <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> 
