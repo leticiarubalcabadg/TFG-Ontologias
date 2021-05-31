@@ -1,7 +1,7 @@
 # TFG-Ontologias
 
 Memoria
-https://docs.google.com/document/d/1IUsOUp9FJ4ZmhQc3cdfMMdgS3AqmQGFC85BhbCmQj5A/edit?usp=sharing
+https://drive.google.com/file/d/1ok4igyDYNZsoNRMBaduIxRGtSoM_m8Tv/view?usp=sharing
 
 Tareas
 https://docs.google.com/document/d/1foQPPwWJxQIybao8gMV-8JsnVFXR3oRT8k3TlEMZXdg/edit?usp=sharing
